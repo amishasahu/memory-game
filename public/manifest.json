@@ -18,7 +18,7 @@
       "sizes": "512x512"
     }
   ],
-  "start_url": "https://main--serene-marshmallow-3f11f1.netlify.app/",
+  "start_url": "/",
   "background_color": "#00adb5",
   "display": "standalone",
   "scope": "https://main--serene-marshmallow-3f11f1.netlify.app/",
